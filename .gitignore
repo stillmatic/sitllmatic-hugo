@@ -1,0 +1,7 @@
+
+.ds_store
+*.Rproj
+_site
+.sass-cache
+.Rproj.user
+.Rhistory
