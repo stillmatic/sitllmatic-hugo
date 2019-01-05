@@ -3,8 +3,8 @@ title: The two types of data
 author: ~
 date: '2018-12-16'
 slug: the-two-types-of-data
-categories: []
-tags: []
+categories: [articles]
+tags: [data-science]
 ---
 
 Basically nothing I learned about data from school carried over when I got a data science job in industry.

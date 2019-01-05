@@ -33,7 +33,7 @@ footnotereturnlinkcontents = "↩"
     url = "/index.xml"
 
 [params]
-    description = "Data Scientist."
+    description = "“Data” “Scientist”"
     footer = "&copy; Chris Hua 2017-18 | [Github](https://github.com/stillmatic) | [Twitter](https://twitter.com/hingeloss)"
     favicon = "/favicon.png"
 
