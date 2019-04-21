@@ -60,6 +60,8 @@ This is combined with the ability to [gift subs](https://blog.twitch.tv/give-the
 
 This is a really efficient way to price discriminate, now: users can spend *unlimited amounts* supporting creators. Nobody would ever spend an unlimited amount on Microsoft Office, but they will when watching video games, if they value your product that heavily.
 
+
+
 Contrast that versus Medium's business model, which has no ads, but paywalls some content behind a Member paywall:
 
 ![](/static/Untitled-e65e16ef-521d-454f-919b-fa5aaf32c9fd.png)
