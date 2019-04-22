@@ -5,6 +5,7 @@ date: '2019-04-21'
 slug: post-hyperscale
 categories: [articles]
 tags: [startups, business-models]
+description: "What comes after we've all been connected?"
 ---
 
 ![](/static/Untitled-392a69bd-8d70-4f62-9432-c15d23a3dfee.png)
