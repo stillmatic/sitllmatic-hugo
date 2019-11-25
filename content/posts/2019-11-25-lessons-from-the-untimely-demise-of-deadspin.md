@@ -1,0 +1,30 @@
+---
+title: Lessons from the untimely demise of Deadspin
+author: ~
+date: '2019-11-25'
+slug: lessons-from-deadspin-rip
+categories: [articles]
+tags: [media, business-models]
+description: "Remembering some guys"
+---
+
+This is an adapted version of a memo I wrote previously.
+
+![](/static/Untitled-3fe80895-8e21-45dd-a8b3-c34d22225d76.png)
+
+Deadspin was a "sports blog" that was part of the Gawker family. The sites have been very popular and simultaneously very controversial, in large part due to their posts which spoke truth to power. (A less generous take would be that they were unruly rabble rousers who stuck their noses where they didn't belong). There is a saga that involves Peter Thiel which is easy to find more details on, and which I don't really want to comment on; suffice to say, the media org has been bought and sold multiple times over the last few years and is currently owned by a private equity firm, probably looking to squeeze some scraps of advertising revenue from the firm while they still can.
+
+Over the last 3 days, the vast majority of the Deadspin staff has quit in solidarity with their deputy editor, who was fired for "not sticking to sports." With the exception of Fox News and Barstool Sports, the public opinion online has been very much in favor of the writers.
+
+There are a few business points that I observe from the exodus:
+
+1. People like writers and there is demand for good content on the internet. Deadspin and Barstool are both emblematic of this: Deadspin wrote lots of pieces punching up (criticizing NCAA for not [paying athletes](https://deadspin.com/this-is-how-to-pay-college-athletes-1823353456), exposing how many [privately-owned stadiums were funded by public funds](https://deadspin.com/tag/stadium-financing), [NFL coverups of CTE](https://deadspin.com/everybody-is-absolutely-fucked-a-cte-sufferers-daugh-1837102322), [unions are good](https://deadspin.com/tag/unions), etc), and Barstool writes lots of pieces punching down (Tom Brady is good, Colin Kaepernick is bad, will not link, etc). They take very different views but have strong followings because their content is high enough quality and differentiated from [typical sports coverage](https://www.si.com/college/notredame/football/notre-dame-football-game-observations-offense-bowling-green/).
+2. The impetus for the firings was an edict from management to "stick to sports." Deadspin is ostensibly a blog about sports, yes, but [what drove views to the site were the non-sports posts](https://twitter.com/barry/status/1189942493355347973). Reading through people's sentiments, the common thread I observed was that readers were reading posts for the authors just as much as the content. It turns out writing about sports is mostly interesting as a foil for the rest of life, and smart writers writing about life is interesting content! Personally, as somebody who has had a few concussions, I'll never forget [the story](https://theconcourse.deadspin.com/the-night-the-lights-went-out-1834298070) Barry wrote about how the Deadspin writing staff saved his life after a brain injury. Or [the story](https://deadspin.com/the-sherpa-of-new-york-1827719365) about how the Sherpas of Everest fame have created an expat community in New York, or when I was introduced to [the world's worst crosscountry race](https://deadspin.com/the-brutality-of-the-barkley-marathons-1794174086), and so on.
+3. The impetus for "stick to sports" was a post from the staff that criticized the management's [usage of autoplay video ads with sound on](https://www.wsj.com/articles/hostilities-rise-inside-g-o-media-over-autoplay-video-ads-and-politics-11572392147). As a (former) "ads person," I can say that this is an objectively bad policy, because it is intrusive to users, breaks their trust, and is not what advertisers want. To quote from WSJ: "The Farmers deal, which began last month and is worth $1 million, required G/O Media to deliver nearly 43.5 million ad impressions through September 2020, according to internal G/O Media emails reviewed by The Wall Street Journal. The publisher’s media and ad operations teams believed it was unlikely G/O Media could deliver that many, according to the emails." This was a decision made to juice short-term revenue numbers while being long-term negative.
+4. Also, that ad deal has a $23 CPM!! Video is lucrative, especially when placed next to [very high quality, differentiated content](https://twitter.com/MichaelKuntzJr/status/1189720423455477760).
+
+The lessons that I'd take away:
+
+1. High quality and differentiated content is valuable. Deadspin had a unique tone that garnered fans and haters, but on the internet, as long as you have fans, you can survive.
+2. People care about writers. I wouldn't be surprised if some of the best writers end up doing a Substack newsletter with their writing - they have brand names and strong followings, along with (again,) high quality differentiated content. Others will write for The Athletic, which has become known for hiring high quality writers at a strong wage and charging a big subscription free for their content. The "stick to sports" retort in particular reminds me that subscriptions are just as much ways to recognize a particular writer (that human essence of their being) rather than just any specific article which they write. I wrote about that human element of subscriptions [elsewhere](http://hingeloss.com/posts/price-discrimination-subscriptions/).
+3. More traditional (can't believe I'm calling a blog traditional) media properties are going to disintegrate and more excellent writers with followings are going to become free agents. Deadspin this week, Sports Illustrated a month ago, [etc etc](https://www.theringer.com/2019/10/31/20942249/deadspin-g-o-media-fired-quit-sports-illustrated-maven-sports-media). In chaos there is opportunity, right?

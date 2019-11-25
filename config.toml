@@ -30,11 +30,11 @@ footnotereturnlinkcontents = "↩"
     weight = 4
 [[menu.main]]
     name = "Subscribe"
-    url = "/index.xml"
+    url = "https://hua.substack.com"
 
 [params]
     description = "“Data” “Scientist”"
-    footer = "&copy; Chris Hua 2017-18 | [Github](https://github.com/stillmatic) | [Twitter](https://twitter.com/hingeloss)"
+    footer = "&copy; Chris Hua 2017-19 | [Github](https://github.com/stillmatic) | [Twitter](https://twitter.com/hingeloss)"
     favicon = "/favicon.png"
 
   highlightjsVersion = "9.12.0"
